@@ -11,7 +11,7 @@
         "moduleType": "Video",
         "baseURL": "https://m.animeflv.net/",
         "moduleDeveloperSite": "https://mprotmod.github.io/Modules-KETSU/index.html",
-        "UpdateSite": "https://raw.githubusercontent.com/mprotmod/Modules-KETSU/main/Module%20Parser%20KETSU/9Anime/module.json",
+        "UpdateSite": "https://raw.githubusercontent.com/kamilovescats/AnimeFLV/main/KETSU",
         "preferedServer": "VIDSTREAM",
         "preferedDownloadServer": "VIDSTREAM",
         "blackListed": [
